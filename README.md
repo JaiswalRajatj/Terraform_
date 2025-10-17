@@ -1,4 +1,4 @@
-**🚀 Terraform Guide for Learners**
+**🚀 Terraform Guide for Learners** \n
 This repository is designed to help developers and cloud enthusiasts understand Terraform from scratch.
 It covers:
 
